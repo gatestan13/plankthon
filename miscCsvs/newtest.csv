@@ -1,0 +1,266 @@
+station,genus,count,label
+dn_20210111,Acantharia,47,1
+dn_20210111,Amphibelone,6,1
+dn_20210111,Amphorides,6,1
+dn_20210111,Bacillariophyta,37,1
+dn_20210111,Calanoida,2,1
+dn_20210111,Chaetoceros,35,1
+dn_20210111,Chaetoceros peruvianus,3,1
+dn_20210111,Chaetoceros protuberans,4,1
+dn_20210111,Ciliophora,25,1
+dn_20210111,Codonellidae,11,1
+dn_20210111,Copepoda,5,1
+dn_20210111,Coscinodiscophycidae,3,1
+dn_20210111,Cyanobacteria,397,1
+dn_20210111,Dadayiella,1,1
+dn_20210111,Diatoma,19,1
+dn_20210111,Dictyochophyceae,11,1
+dn_20210111,Dictyocysta,1,1
+dn_20210111,Dinophyceae,2,1
+dn_20210111,Dinophyceae X,4,1
+dn_20210111,Ditylum,1,1
+dn_20210111,Epiplocylis,6,1
+dn_20210111,Eucampia,20,1
+dn_20210111,Eutintinnus,26,1
+dn_20210111,Foraminifera,3,1
+dn_20210111,Gonyaulacales,4,1
+dn_20210111,Nassellaria,8,1
+dn_20210111,Neoceratium,4,1
+dn_20210111,Neoceratium fusus,4,1
+dn_20210111,Neoceratium macroceros,5,1
+dn_20210111,Neoceratium pentagonum,64,1
+dn_20210111,Neoceratium tripos,11,1
+dn_20210111,Ornithocercus,4,1
+dn_20210111,Podolampas,6,1
+dn_20210111,Protoperidinium,6,1
+dn_20210111,Pyrocystaceae,15,1
+dn_20210111,Rhabdonella,23,1
+dn_20210111,Rhabdonellopsis,4,1
+dn_20210111,Rhizaria,14,1
+dn_20210111,Rhizosolenia,6,1
+dn_20210111,Salpingella,21,1
+dn_20210111,Spumellaria,3,1
+dn_20210111,Steenstrupiella,63,1
+dn_20210111,Undellidae,8,1
+dn_20210111,Xystonellopsis,2,1
+dn_20210111,Xystonellopsik,2,1
+dn_20210111,Xystonellopsij,2,1
+dn_20210111,Xystonellopsii,2,1
+dn_20210111,Xystonellopsih,2,1
+dn_20210111,Xystonellopsig,2,1
+dn_20210111,Xystonellopsif,2,1
+dn_20210111,Xystonellopsie,2,1
+dn_20210111,Xystonellopsid,2,1
+dn_20210111,Xystonellopsic,2,1
+dn_20210111,Xystonellopsib,2,1
+dn_20210111,Xystonellopsi0,2,1
+dn_20210111,Xystonellopsi9,2,1
+dn_20210111,Xystonellopsi8,2,1
+dn_20210111,Xystonellopsi7,2,1
+dn_20210111,Xystonellopsi6,2,1
+dn_20210111,Xystonellopsi5,2,1
+dn_20210111,Xystonellopsi4,2,1
+dn_20210111,Xystonellopsi3,2,1
+dn_20210111,Xystonellopsi2,2,1
+dn_20210111,Xystonellopsi1,2,1
+dn_20210111,artefact,108,0
+dn_20210111,crumple sphere,1,0
+dn_20210111,cup like,3,0
+dn_20210111,detritus,500000,0
+dn_20210111,diatom scale,2,0
+dn_20210111,dry,28,0
+dn_20210111,egg sac,1,0
+dn_20210111,elongated cells,4,0
+dn_20210111,fiber,3,0
+dn_20210111,ghost,6,0
+dn_20210111,lightrods,61,0
+dn_20210111,lightsphere,3,0
+dn_20210111,multiple<other,124,0
+dn_20210111,nauplii,28,0
+dn_20210111,other,6,0
+dn_20210111,part<Ciliophora,6,0
+dn_20210111,part<Crustacea,61,0
+dn_20210111,pennate,5,0
+dn_20210111,rods,25,0
+dn_20210111,round cells,263,0
+dn_20210111,transparent,57,0
+dn_20210114,Acantharia,6,1
+dn_20210114,Amphorides,1,1
+dn_20210114,Calanoida,1,1
+dn_20210114,Ceratocorys,1,1
+dn_20210114,Chaetoceros,24,1
+dn_20210114,Chaetoceros peruvianus,1,1
+dn_20210114,Chaetoceros protuberans,1,1
+dn_20210114,Ciliophora,18,1
+dn_20210114,Climacodium,15,1
+dn_20210114,Coscinodiscophycidae,2,1
+dn_20210114,Cyanobacteria,5,1
+dn_20210114,Dadayiella,6,1
+dn_20210114,Diatoma,2,1
+dn_20210114,Dictyocysta,1,1
+dn_20210114,Dinophyceae,3,1
+dn_20210114,Dinophyceae X,8,1
+dn_20210114,Epiplocylis,3,1
+dn_20210114,Eucampia,2,1
+dn_20210114,Eutintinnus,10,1
+dn_20210114,Gonyaulacales,4,1
+dn_20210114,Neoceratium,3,1
+dn_20210114,Neoceratium fusus,2,1
+dn_20210114,Neoceratium macroceros,5,1
+dn_20210114,Neoceratium pentagonum,37,1
+dn_20210114,Neoceratium tripos,16,1
+dn_20210114,Ornithocercus,1,1
+dn_20210114,Pleurosigma,1,1
+dn_20210114,Podolampas,1,1
+dn_20210114,Protoperidinium,11,1
+dn_20210114,Rhabdonella,23,1
+dn_20210114,Rhizaria,4,1
+dn_20210114,Rhizosolenia,5,1
+dn_20210114,Salpingella,1,1
+dn_20210114,Spumellaria,1,1
+dn_20210114,Steenstrupiella,15,1
+dn_20210114,Undellidae,2,1
+dn_20210114,artefact,17,0
+dn_20210114,cup like,2,0
+dn_20210114,cyst,1,0
+dn_20210114,detritus,579,0
+dn_20210114,diatom scale,1,0
+dn_20210114,dry,3,0
+dn_20210114,elongated cells,4,0
+dn_20210114,ghost,2,0
+dn_20210114,lightrods,31,0
+dn_20210114,lightsphere,2,0
+dn_20210114,multiple<other,26,0
+dn_20210114,nauplii,12,0
+dn_20210114,other,1,0
+dn_20210114,part<Crustacea,35,0
+dn_20210114,rods,4,0
+dn_20210114,round cells,116,0
+dn_20210114,transparent,2,0
+dn_20210122,Acantharia,4,1
+dn_20210122,Amphorides,1,1
+dn_20210122,Bacillariophyta,1,1
+dn_20210122,Chaetoceros,5,1
+dn_20210122,Chaetoceros protuberans,4,1
+dn_20210122,Ciliophora,8,1
+dn_20210122,Copepoda,3,1
+dn_20210122,Coscinodiscophycidae,1,1
+dn_20210122,Cyanobacteria,928,1
+dn_20210122,Dadayiella,1,1
+dn_20210122,Diatoma,122,1
+dn_20210122,Dinophyceae,3,1
+dn_20210122,Dinophyceae X,15,1
+dn_20210122,Eucampia,52,1
+dn_20210122,Eutintinnus,1,1
+dn_20210122,Gonyaulacales,7,1
+dn_20210122,Hemiaulus,7,1
+dn_20210122,Nassellaria,1,1
+dn_20210122,Neoceratium,1,1
+dn_20210122,Neoceratium pentagonum,39,1
+dn_20210122,Neoceratium tripos,2,1
+dn_20210122,Protoperidinium,6,1
+dn_20210122,Pyrocystaceae,1,1
+dn_20210122,Rhabdonella,1,1
+dn_20210122,Rhabdonellopsis,1,1
+dn_20210122,Rhizosolenia,2,1
+dn_20210122,Undellidae,2,1
+dn_20210122,Xystonellopsis,1,1
+dn_20210122,artefact,2,0
+dn_20210122,crumple sphere,1,0
+dn_20210122,cup like,2,0
+dn_20210122,cyst,1,0
+dn_20210122,detritus,618,0
+dn_20210122,diatom scale,1,0
+dn_20210122,dry,2,0
+dn_20210122,elongated cells,1,0
+dn_20210122,ghost,14,0
+dn_20210122,lightrods,13,0
+dn_20210122,multiple<other,40,0
+dn_20210122,nauplii,10,0
+dn_20210122,other,5,0
+dn_20210122,part<Ciliophora,3,0
+dn_20210122,part<Crustacea,32,0
+dn_20210122,puff,5,0
+dn_20210122,rods,9,0
+dn_20210122,round cells,110,0
+dn_20210122,transparent,31,0
+hsn_20201227,Acantharia,3,1
+hsn_20201227,Amphibelone,1,1
+hsn_20201227,Bacillariophyta,2,1
+hsn_20201227,Calanoida,24,1
+hsn_20201227,Ceratocorys,1,1
+hsn_20201227,Chaetoceros,33,1
+hsn_20201227,Climacodium,1,1
+hsn_20201227,Codonellidae,7,1
+hsn_20201227,Copepoda,39,1
+hsn_20201227,Coscinodiscophycidae,22,1
+hsn_20201227,Cyanobacteria,9,1
+hsn_20201227,Dadayiella,2,1
+hsn_20201227,Diatoma,28,1
+hsn_20201227,Dictyochophyceae,1,1
+hsn_20201227,Dictyocysta,1,1
+hsn_20201227,Dinophyceae,3,1
+hsn_20201227,Eucampia,3,1
+hsn_20201227,Eutintinnus,8,1
+hsn_20201227,Foraminifera,1,1
+hsn_20201227,Gonyaulacales,1,1
+hsn_20201227,Hemiaulus,2,1
+hsn_20201227,Neoceratium,12,1
+hsn_20201227,Neoceratium furca,6,1
+hsn_20201227,Neoceratium fusus,42,1
+hsn_20201227,Neoceratium massiliense,7,1
+hsn_20201227,Neoceratium pentagonum,2,1
+hsn_20201227,Neoceratium tripos,4,1
+hsn_20201227,Ornithocercus,1,1
+hsn_20201227,Protoperidinium,3,1
+hsn_20201227,Pyrocystaceae,8,1
+hsn_20201227,Rhizaria,6,1
+hsn_20201227,Rhizosolenia,12,1
+hsn_20201227,Salpingella,1,1
+hsn_20201227,Undellidae,15,1
+hsn_20201227,artefact,2,0
+hsn_20201227,bubble,2,0
+hsn_20201227,crumple sphere,2,0
+hsn_20201227,detritus,328,0
+hsn_20201227,egg sac,1,0
+hsn_20201227,elongated cells,2,0
+hsn_20201227,fiber,1,0
+hsn_20201227,lightrods,49,0
+hsn_20201227,multiple<Diatoma,1,0
+hsn_20201227,multiple<other,11,0
+hsn_20201227,nauplii,81,0
+hsn_20201227,other,6,0
+hsn_20201227,part<Crustacea,53,0
+hsn_20201227,pennate,4,0
+hsn_20201227,rods,26,0
+hsn_20201227,round cells,7,0
+hsn_20201227,transparent,37,0
+hsn_20210120_4k,Amphorides,1,1
+hsn_20210120_4k,Calanoida,1,1
+hsn_20210120_4k,Chaetoceros,2,1
+hsn_20210120_4k,Ciliophora,1,1
+hsn_20210120_4k,Cyanobacteria,141,1
+hsn_20210120_4k,Diatoma,253,1
+hsn_20210120_4k,Dictyochophyceae,1,1
+hsn_20210120_4k,Eucampia,2,1
+hsn_20210120_4k,Eutintinnus,1,1
+hsn_20210120_4k,Gonyaulacales,1,1
+hsn_20210120_4k,Hemiaulus,60,1
+hsn_20210120_4k,Neoceratium,1,1
+hsn_20210120_4k,Pyrocystaceae,1,1
+hsn_20210120_4k,Steenstrupiella,2,1
+hsn_20210120_4k,Tintinnida,2,1
+hsn_20210120_4k,artefact,18,0
+hsn_20210120_4k,bubble,1,0
+hsn_20210120_4k,detritus,379,0
+hsn_20210120_4k,dry,178,0
+hsn_20210120_4k,ghost,5,0
+hsn_20210120_4k,lightrods,6,0
+hsn_20210120_4k,multiple<Diatoma,10,0
+hsn_20210120_4k,multiple<other,9,0
+hsn_20210120_4k,nauplii,1,0
+hsn_20210120_4k,other,1,0
+hsn_20210120_4k,part<Crustacea,14,0
+hsn_20210120_4k,rods,8,0
+hsn_20210120_4k,round cells,5,0
+hsn_20210120_4k,transparent,83,0
