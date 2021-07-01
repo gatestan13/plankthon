@@ -1,4 +1,7 @@
-# plankthon
-Source code and material used for the Plankthon Challenge by Veolia
-
-https://github.com/gatestan13/plankthon/blob/main/images/README1024_1.jpg?raw=true
+![alt text](https://github.com/gatestan13/plankthon/blob/main/images/README1024_1.jpg?raw=true)
+![alt text](https://github.com/gatestan13/plankthon/blob/main/images/README1024_2.jpg?raw=true)
+![alt text](https://github.com/gatestan13/plankthon/blob/main/images/README1024_3.jpg?raw=true)
+![alt text](https://github.com/gatestan13/plankthon/blob/main/images/README1024_4.jpg?raw=true)
+![alt text](https://github.com/gatestan13/plankthon/blob/main/images/README1024_5.jpg?raw=true)
+![alt text](https://github.com/gatestan13/plankthon/blob/main/images/README1024_6.jpg?raw=true)
+![alt text](https://github.com/gatestan13/plankthon/blob/main/images/README1024_7.jpg?raw=true)
