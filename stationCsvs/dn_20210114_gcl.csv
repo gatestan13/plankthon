@@ -1,0 +1,54 @@
+station,genus,count,label
+dn_20210114,Acantharia,6,1
+dn_20210114,Amphorides,1,1
+dn_20210114,Calanoida,1,1
+dn_20210114,Ceratocorys,1,1
+dn_20210114,Chaetoceros,24,1
+dn_20210114,Chaetoceros peruvianus,1,1
+dn_20210114,Chaetoceros protuberans,1,1
+dn_20210114,Ciliophora,18,1
+dn_20210114,Climacodium,15,1
+dn_20210114,Coscinodiscophycidae,2,1
+dn_20210114,Cyanobacteria,5,1
+dn_20210114,Dadayiella,6,1
+dn_20210114,Diatoma,2,1
+dn_20210114,Dictyocysta,1,1
+dn_20210114,Dinophyceae,3,1
+dn_20210114,Dinophyceae X,8,1
+dn_20210114,Epiplocylis,3,1
+dn_20210114,Eucampia,2,1
+dn_20210114,Eutintinnus,10,1
+dn_20210114,Gonyaulacales,4,1
+dn_20210114,Neoceratium,3,1
+dn_20210114,Neoceratium fusus,2,1
+dn_20210114,Neoceratium macroceros,5,1
+dn_20210114,Neoceratium pentagonum,37,1
+dn_20210114,Neoceratium tripos,16,1
+dn_20210114,Ornithocercus,1,1
+dn_20210114,Pleurosigma,1,1
+dn_20210114,Podolampas,1,1
+dn_20210114,Protoperidinium,11,1
+dn_20210114,Rhabdonella,23,1
+dn_20210114,Rhizaria,4,1
+dn_20210114,Rhizosolenia,5,1
+dn_20210114,Salpingella,1,1
+dn_20210114,Spumellaria,1,1
+dn_20210114,Steenstrupiella,15,1
+dn_20210114,Undellidae,2,1
+dn_20210114,artefact,17,0
+dn_20210114,cup like,2,0
+dn_20210114,cyst,1,0
+dn_20210114,detritus,579,0
+dn_20210114,diatom scale,1,0
+dn_20210114,dry,3,0
+dn_20210114,elongated cells,4,0
+dn_20210114,ghost,2,0
+dn_20210114,lightrods,31,0
+dn_20210114,lightsphere,2,0
+dn_20210114,multiple<other,26,0
+dn_20210114,nauplii,12,0
+dn_20210114,other,1,0
+dn_20210114,part<Crustacea,35,0
+dn_20210114,rods,4,0
+dn_20210114,round cells,116,0
+dn_20210114,transparent,2,0

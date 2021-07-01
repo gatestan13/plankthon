@@ -1,0 +1,52 @@
+station,genus,count,label
+hsn_20201227,Acantharia,3,1
+hsn_20201227,Amphibelone,1,1
+hsn_20201227,Bacillariophyta,2,1
+hsn_20201227,Calanoida,24,1
+hsn_20201227,Ceratocorys,1,1
+hsn_20201227,Chaetoceros,33,1
+hsn_20201227,Climacodium,1,1
+hsn_20201227,Codonellidae,7,1
+hsn_20201227,Copepoda,39,1
+hsn_20201227,Coscinodiscophycidae,22,1
+hsn_20201227,Cyanobacteria,9,1
+hsn_20201227,Dadayiella,2,1
+hsn_20201227,Diatoma,28,1
+hsn_20201227,Dictyochophyceae,1,1
+hsn_20201227,Dictyocysta,1,1
+hsn_20201227,Dinophyceae,3,1
+hsn_20201227,Eucampia,3,1
+hsn_20201227,Eutintinnus,8,1
+hsn_20201227,Foraminifera,1,1
+hsn_20201227,Gonyaulacales,1,1
+hsn_20201227,Hemiaulus,2,1
+hsn_20201227,Neoceratium,12,1
+hsn_20201227,Neoceratium furca,6,1
+hsn_20201227,Neoceratium fusus,42,1
+hsn_20201227,Neoceratium massiliense,7,1
+hsn_20201227,Neoceratium pentagonum,2,1
+hsn_20201227,Neoceratium tripos,4,1
+hsn_20201227,Ornithocercus,1,1
+hsn_20201227,Protoperidinium,3,1
+hsn_20201227,Pyrocystaceae,8,1
+hsn_20201227,Rhizaria,6,1
+hsn_20201227,Rhizosolenia,12,1
+hsn_20201227,Salpingella,1,1
+hsn_20201227,Undellidae,15,1
+hsn_20201227,artefact,2,0
+hsn_20201227,bubble,2,0
+hsn_20201227,crumple sphere,2,0
+hsn_20201227,detritus,328,0
+hsn_20201227,egg sac,1,0
+hsn_20201227,elongated cells,2,0
+hsn_20201227,fiber,1,0
+hsn_20201227,lightrods,49,0
+hsn_20201227,multiple<Diatoma,1,0
+hsn_20201227,multiple<other,11,0
+hsn_20201227,nauplii,81,0
+hsn_20201227,other,6,0
+hsn_20201227,part<Crustacea,53,0
+hsn_20201227,pennate,4,0
+hsn_20201227,rods,26,0
+hsn_20201227,round cells,7,0
+hsn_20201227,transparent,37,0

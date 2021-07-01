@@ -1,0 +1,48 @@
+station,genus,count,label
+dn_20210122,Acantharia,4,1
+dn_20210122,Amphorides,1,1
+dn_20210122,Bacillariophyta,1,1
+dn_20210122,Chaetoceros,5,1
+dn_20210122,Chaetoceros protuberans,4,1
+dn_20210122,Ciliophora,8,1
+dn_20210122,Copepoda,3,1
+dn_20210122,Coscinodiscophycidae,1,1
+dn_20210122,Cyanobacteria,928,1
+dn_20210122,Dadayiella,1,1
+dn_20210122,Diatoma,122,1
+dn_20210122,Dinophyceae,3,1
+dn_20210122,Dinophyceae X,15,1
+dn_20210122,Eucampia,52,1
+dn_20210122,Eutintinnus,1,1
+dn_20210122,Gonyaulacales,7,1
+dn_20210122,Hemiaulus,7,1
+dn_20210122,Nassellaria,1,1
+dn_20210122,Neoceratium,1,1
+dn_20210122,Neoceratium pentagonum,39,1
+dn_20210122,Neoceratium tripos,2,1
+dn_20210122,Protoperidinium,6,1
+dn_20210122,Pyrocystaceae,1,1
+dn_20210122,Rhabdonella,1,1
+dn_20210122,Rhabdonellopsis,1,1
+dn_20210122,Rhizosolenia,2,1
+dn_20210122,Undellidae,2,1
+dn_20210122,Xystonellopsis,1,1
+dn_20210122,artefact,2,0
+dn_20210122,crumple sphere,1,0
+dn_20210122,cup like,2,0
+dn_20210122,cyst,1,0
+dn_20210122,detritus,618,0
+dn_20210122,diatom scale,1,0
+dn_20210122,dry,2,0
+dn_20210122,elongated cells,1,0
+dn_20210122,ghost,14,0
+dn_20210122,lightrods,13,0
+dn_20210122,multiple<other,40,0
+dn_20210122,nauplii,10,0
+dn_20210122,other,5,0
+dn_20210122,part<Ciliophora,3,0
+dn_20210122,part<Crustacea,32,0
+dn_20210122,puff,5,0
+dn_20210122,rods,9,0
+dn_20210122,round cells,110,0
+dn_20210122,transparent,31,0
